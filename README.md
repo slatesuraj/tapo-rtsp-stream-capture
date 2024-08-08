@@ -26,3 +26,6 @@ By running this script, the RTSP stream will be recorded as an MP4 file named ou
 3. Main block:
    a. Sets RTSP URL and output file path.
    b. Calls record_rtsp function to start recording.
+
+## Future of this Project
+I'll be adding capabilities like object detection, sound detction in the near future and later on i'll try to create model like thread detection, scene detection etc.
