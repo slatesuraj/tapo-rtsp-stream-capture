@@ -23,7 +23,7 @@ By running this script, the RTSP stream will be recorded as an MP4 file named ou
    e. Reads frames from the capture, writes them to the output file.
    f. Optionally, displays the frame (commented out).
    e. Releases resources.
-3. Main block:
+4. Main block:
    a. Sets RTSP URL and output file path.
    b. Calls record_rtsp function to start recording.
 
